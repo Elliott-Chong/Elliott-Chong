@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elliott-Chong
+- 👋 Hi, I’m @Elliott-Chong, view my portfolio website at [ElliottChong.com](https://www.elliottchong.com)
 - 👀 I’m interested in all things Math and Computer Science
 - 🌱 I’m currently learning Front End Web Development
 - 📫 How to reach me:
