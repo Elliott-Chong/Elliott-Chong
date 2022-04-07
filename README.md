@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Elliott-Chong, view my portfolio website at [ElliottChong.com](https://www.elliottchong.com)
-- 🔎 Take a look at some of my recent projects [here](https://www.elliottchong.com/projects)
 - 👀 I’m interested in all things Math and Computer Science
 - 🌱 I’m currently learning full stack web development.
 - 📫 How to reach me: 
