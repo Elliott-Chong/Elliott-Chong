@@ -11,11 +11,11 @@
 
 - 💬 Ask me about **React, p5js, NodeJS**
 
-- 👓 I am currently studying in Singapore Polytechnic, persuing a diploma in Data analytics and Ariticial intelligence (2022 - 2024) 
+- 👓 I am currently studying in Singapore Polytechnic, persuing a diploma in **Information Technology** (2022 - 2024) 
 
 - 📫 How to reach me **elliottchong16@gmail.com**
 
-- ⚡ Fun fact **I'm learning how to crochet!**
+- ⚡ Fun fact **I am a human!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
