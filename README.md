@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine learning**
 
-- 👨‍💻 All of my projects are available at [https://elliottchong.com](https://elliottchong.com)
+- 👨‍💻 All of my projects are available at [https://elliottchong.tech](https://elliottchong.tech)
 
 - 💬 Ask me about **React, p5js, NodeJS**
 
