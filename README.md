@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elliott-chong" alt="elliott-chong" /></a> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine learning**
+- 🌱 I’m currently learning **NextJS 13 with Supabase**
+
+- 🕵🏻 Currently interning as a frontend developer at [Reluvate technologies](https://www.reluvate.com/)
 
 - 👨‍💻 All of my projects are available at [https://elliottchong.tech](https://elliottchong.tech)
 
