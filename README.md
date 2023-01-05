@@ -9,11 +9,11 @@
 
 - 🎥 View my YouTube channel @ https://www.youtube.com/@elliottchong6706
 
-- 🕵🏻 Currently interning as a frontend developer at [Reluvate technologies](https://www.reluvate.com/)
+- 🕵🏻 Currently interning as a full-stack developer at [Reluvate technologies](https://www.reluvate.com/)
 
 - 👨‍💻 All of my projects are available at [https://elliottchong.tech](https://elliottchong.tech)
 
-- 💬 Ask me about **React, p5js, NodeJS**
+- 💬 Ask me about **React, p5js, NodeJS, Python**
 
 - 👓 I am currently studying in Singapore Polytechnic, persuing a diploma in **Information Technology** (2022 - 2024) 
 
