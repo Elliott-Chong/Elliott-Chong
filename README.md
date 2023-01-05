@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Elliott Chong</h1>
-<h3 align="center">A 17 year old, passionate computer science student from Singapore</h3>
+<h3 align="center">A 18 year old, passionate computer science student from Singapore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elliott-chong&label=Profile%20views&color=0e75b6&style=flat" alt="elliott-chong" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elliott-chong" alt="elliott-chong" /></a> </p>
 
 - 🌱 I’m currently learning **NextJS 13 with Supabase**
+
+- 🎥 View my YouTube channel @ https://www.youtube.com/@elliottchong6706
 
 - 🕵🏻 Currently interning as a frontend developer at [Reluvate technologies](https://www.reluvate.com/)
 
