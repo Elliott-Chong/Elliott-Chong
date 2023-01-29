@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elliott-chong" alt="elliott-chong" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS 13 with Supabase**
+- 🌱 I’m currently learning **T3 Stack**
+
+- 🌱 I’m currently building **a practice platform for SP**
 
 - 🎥 View my YouTube channel @ https://www.youtube.com/@elliottchong6706
 
@@ -19,7 +21,7 @@
 
 - 📫 How to reach me **elliottchong16@gmail.com**
 
-- ⚡ Fun fact **I am a human!**
+- ⚡ Fun fact **I am training for a half-marathon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
