@@ -11,7 +11,7 @@
 
 - 🎥 View my YouTube channel @ https://www.youtube.com/@elliottchong6706
 
-- 🕵🏻 Currently interning as a full-stack developer at [Reluvate technologies](https://www.reluvate.com/)
+- 🕵🏻 Currently bootstrapping a startup as an indie hacker
 
 - 👨‍💻 All of my projects are available at [https://elliottchong.tech](https://elliottchong.tech)
 
