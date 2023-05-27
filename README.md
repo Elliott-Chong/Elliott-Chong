@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://elliottchong.tech](https://elliottchong.tech)
 
-- 🌱 I’m currently learning **T3 Stack**
+- 🌱 I’m currently learning **DevOps with NextJS 13.4**
 
-- 👀 I’m currently building **a practice platform for SP**
+- 👀 I’m currently building a **Developer Centric Chat application**
 
 - 💬 Ask me about **React, p5js, NodeJS, Python**
 
