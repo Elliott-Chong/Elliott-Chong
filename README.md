@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elliott-chong" alt="elliott-chong" /></a> </p>
 
-- 🎥 View my [YouTube channel](https://www.youtube.com/channel/UCnb5XvHP--EklbZCu_WvAGQ) where I document my Computer Science journey :)
-
-- 🕵🏻 Currently bootstrapping my startup [RoadSmart](https://roadsmart.info), where we hope to digitalise and streamline the checkin process for delivery drivers into condominiums
+- 🎥 View my [YouTube channel](https://www.youtube.com/@elliottchong) where I document my Computer Science journey :)
 
 - 👨‍💻 All of my projects are available at [https://elliottchong.tech](https://elliottchong.tech)
 
