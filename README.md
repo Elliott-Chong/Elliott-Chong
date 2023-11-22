@@ -9,14 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://elliottchong.tech](https://elliottchong.tech)
 
-- 🌱 I’m currently learning **DevOps with NextJS 13.4**
-
-- 👀 I’m currently building a **Developer Centric Chat application**
-
-- 💬 Ask me about **React, p5js, NodeJS, Python**
-
-- 👓 I am currently studying in Singapore Polytechnic, persuing a diploma in **Information Technology** (2022 - 2024) 
-
 - 📫 How to reach me **elliottchong16@gmail.com**
 
 - ⚡ Fun fact **I am training for a half-marathon**
