@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elliott Chong</h1>
-<h3 align="center">A 18 year old, passionate computer science student from Singapore</h3>
+<h3 align="center">A 19 year old, passionate computer science student from Singapore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elliott-chong&label=Profile%20views&color=0e75b6&style=flat" alt="elliott-chong" /> </p>
 
@@ -10,8 +10,6 @@
 - 👨‍💻 All of my projects are available at [https://elliottchong.tech](https://elliottchong.tech)
 
 - 📫 How to reach me **elliottchong16@gmail.com**
-
-- ⚡ Fun fact **I am training for a half-marathon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
