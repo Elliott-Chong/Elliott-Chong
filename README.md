@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elliott Chong</h1>
-<h3 align="center">A 19 year old, passionate computer science student from Singapore</h3>
+<h3 align="center">A 19 year old, problem solver from Singapore</h3>
+<h3 align="center">Founding & Lead engineer at <a href="https://cascading.ai">Cascading AI (YC 2023)</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elliott-chong&label=Profile%20views&color=0e75b6&style=flat" alt="elliott-chong" /> </p>
 
