@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elliott-chong" alt="elliott-chong" /></a> </p>
 
-- 🎥 View my [YouTube channel](https://www.youtube.com/@elliottchong) where I document my Computer Science journey :)
+- 🎥 View my [YouTube channel](https://www.youtube.com/@elliottchong) where I teach you how to build and scale your SaaS 🎸
 
 - 👨‍💻 All of my projects are available at [https://elliottchong.tech](https://elliottchong.tech)
 
