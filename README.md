@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elliott Chong</h1>
 
-<h4 align="center">Looking to build and scale your SaaS? Check out <a href='https://www.start-saas.com'  target="_blank">StartSaas.com</a>, a industry-proven starter kit </h3>
+<h4 align="center">Looking to build your next $5k/Month recurring revenue MicroSaaS? Check out <a href='https://www.start-saas.com'  target="_blank">StartSaas.com</a>, a industry-proven starter kit </h3>
 
 <h3 align="center">A 19 year old, athlete, <a href='https://youtube.com/@elliottchong'  target="_blank">content creator</a> and problem solver from Singapore</h3>
 <h3 align="center">Founding & Lead engineer at <a href="https://www.linkedin.com/company/cascading-ai/">Cascading AI (YC 2023)</a></h3>
