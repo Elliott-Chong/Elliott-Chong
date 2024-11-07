@@ -11,8 +11,6 @@
 
 - 🎥 View my [YouTube channel](https://www.youtube.com/@elliottchong) where I teach you how to build and scale your SaaS 🎸
 
-- 👨‍💻 All of my projects are available at [https://elliottchong.tech](https://elliottchong.tech)
-
 - 📫 How to reach me **elliottchong16@gmail.com**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elliott-chong&show_icons=true&locale=en&layout=compact" alt="elliott-chong" /></p>
