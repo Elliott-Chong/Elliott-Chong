@@ -2,7 +2,7 @@
 
 <h4 align="center">Looking to build your next $5k/Month recurring revenue MicroSaaS? Check out <a href='https://www.start-saas.com?utm_source=gh'  target="_blank">StartSaas.com</a> </h3>
 
-<h3 align="center">A 19 year old, athlete, <a href='https://youtube.com/@elliottchong'  target="_blank">content creator</a> and problem solver from Singapore</h3>
+<h3 align="center">A 20 year old, athlete, <a href='https://youtube.com/@elliottchong'  target="_blank">content creator</a> and problem solver from Singapore</h3>
 <h3 align="center">Founding & Lead engineer at <a href="https://www.linkedin.com/company/cascading-ai/">Cascading AI (YC 2023)</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elliott-chong&label=Profile%20views&color=0e75b6&style=flat" alt="elliott-chong" /> </p>
